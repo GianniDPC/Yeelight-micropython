@@ -1,4 +1,4 @@
-import socket
+import usocket as socket
 import json
 
 
